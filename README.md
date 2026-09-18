@@ -1,2 +1,3 @@
-# workflowy-export
-A userscript to maximize and edit Workflowy’s export functionality.
+# Workflowy Userscripts 
+
+A collection of user scripts to improve your workflow.
